@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LCar</string>
+    <string name="action_leave">Salir</string>
+    <string name="action_send">Enviar</string>
+    <string name="prompt_message">Mensaje</string>
+
+    <string name="error_connect">Fallo al conectar con el servidor</string>
+
+    <!-- messages -->
+    <string name="message_none"> </string>
+</resources>
