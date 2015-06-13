@@ -30,4 +30,4 @@ proguard/
 .DS_Store
 
 # Android Studio
-/.idea
+.idea
